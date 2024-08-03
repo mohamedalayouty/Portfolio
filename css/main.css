@@ -1008,7 +1008,7 @@ section,
 
 .portfolio .portfolio-item .img-fluid {
   height: 15rem;
-  max-width: 130%;
+  /* max-width: 100%; */
 }
 
 .portfolio .portfolio-item .portfolio-info {
